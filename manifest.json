@@ -1,0 +1,14 @@
+{
+  "name": "MicroPython",
+  "version": "1.19.1",
+  "new_install_prompt_erase": false,
+  "new_install_improv_wait_time": 0,
+  "builds": [
+    {
+      "chipFamily": "ESP32C3",
+      "parts": [
+        { "path": "micropython.bin", "offset": 0 }
+      ]
+    },
+  ]
+}
