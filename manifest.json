@@ -5,9 +5,9 @@
   "new_install_improv_wait_time": 0,
   "builds": [
     {
-      "chipFamily": "ESP32C3",
+      "chipFamily": "ESP32-C3",
       "parts": [
-        { "path": "micropython.bin", "offset": 0 }
+        { "path": "./micropython.bin", "offset": 0 }
       ]
     },
   ]
